@@ -96,9 +96,9 @@ const Party: NextPage = () => {
             </li>
           </ul>
           <div className="links">
-            <a href="https://twitter.com/myBBweb3">twitter</a>
-            <a href="https://notionforms.io/forms/telegram">telegram</a>
-            <a href="https://bestandbrightest.xyz/">bb</a>
+            <a href="#">twitter</a>
+            <a href="#">telegram</a>
+            <a href="#">bb</a>
           </div>
         </div>
         <section className="welcome welcome_1">
@@ -386,15 +386,15 @@ const Party: NextPage = () => {
       <footer>
         <div className="content">
           <div className="links">
-            <a href="https://twitter.com/myBBweb3">twitter</a>
-            <a href="https://notionforms.io/forms/telegram">telegram</a>
-            <a href="https://bestandbrightest.xyz/">bb</a>
+            <a href="#">twitter</a>
+            <a href="#">telegram</a>
+            <a href="#">bb</a>
           </div>
           <img src="./img/footer_logo.png" alt="" className="logo" />
           <div className="line">
-            <a href="https://www.notion.so/PRIVACY-POLICY-87724f26b05842f2957b783a1043cbac">Privacy Policy</a>
+            <a href="#">Privacy Policy</a>
             <p>© 2023 Brightly. All Rights Reserved</p>
-            <a href="https://big-file-6cd.notion.site/TERMS-AND-CONDITIONS-7813e6aee816433e88d8ce7a6fa2a554">Terms and Conditions</a>
+            <a href="#">Terms and Conditions</a>
           </div>
         </div>
       </footer>
